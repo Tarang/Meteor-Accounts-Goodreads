@@ -6,6 +6,6 @@ Installation
 meteor add accounts-goodreads
 ```
 
-2) Add accounts UI
+2) Add accounts UI (meteor add accounts-ui)
 
 3) Add {{>loginButtons}} in your html
