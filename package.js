@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-  api.use('aouth2', ['client', 'server']);
+  api.use('oauth1', ['client', 'server']);
   api.use('oauth', ['client', 'server']);
   api.use('random', 'client');
   api.use('underscore', 'server');
